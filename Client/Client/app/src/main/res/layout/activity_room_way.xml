@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/shape_back">
+
+    <AbsoluteLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="120dp">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_x="48dp"
+            android:layout_y="52dp"
+            android:src="@drawable/shape_bubble_1" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_x="289dp"
+            android:layout_y="47dp"
+            android:src="@drawable/shape_bubble_1" />
+
+    </AbsoluteLayout>
+    <AbsoluteLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="70dp">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_x="110dp"
+            android:layout_y="22dp"
+            android:src="@drawable/shape_bubble_1" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_x="309dp"
+            android:layout_y="20dp"
+            android:src="@drawable/shape_bubble_1" />
+    </AbsoluteLayout>
+    <AbsoluteLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="70dp">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_x="51dp"
+            android:layout_y="22dp"
+            android:src="@drawable/shape_bubble_1" />
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_x="130dp"
+            android:layout_y="15dp"
+            android:src="@drawable/shape_bubble_1"/>
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_x="300dp"
+            android:layout_y="20dp"
+            android:src="@drawable/shape_bubble_1"/>
+    </AbsoluteLayout>
+    <ImageView
+        android:id="@+id/Create_Room"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:background="@drawable/shape_rect"
+        android:src="@drawable/create_room"/>
+    <AbsoluteLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="60dp">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_x="75dp"
+            android:layout_y="25dp"
+            android:src="@drawable/shape_bubble_1" />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_x="271dp"
+            android:layout_y="16dp"
+            android:src="@drawable/shape_bubble_1" />
+    </AbsoluteLayout>
+    <ImageView
+        android:id="@+id/Join_Room"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:background="@drawable/shape_rect"
+        android:src="@drawable/join_room"/>
+    <AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_x="53dp"
+            android:layout_y="25dp"
+            android:src="@drawable/shape_bubble_1" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_x="350dp"
+            android:layout_y="10dp"
+            android:src="@drawable/shape_bubble_1" />
+
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_x="117dp"
+            android:layout_y="111dp"
+            android:src="@drawable/shape_bubble_1" />
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_x="316dp"
+            android:layout_y="93dp"
+            android:src="@drawable/shape_bubble_1" />
+
+        <ImageView
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:layout_x="61dp"
+            android:layout_y="155dp"
+            android:src="@drawable/shape_bubble_2" />
+
+        <ImageView
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:layout_x="353dp"
+            android:layout_y="181dp"
+            android:src="@drawable/shape_bubble_2" />
+    </AbsoluteLayout>
+</LinearLayout>
+
+

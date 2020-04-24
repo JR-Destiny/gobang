@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Socket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Socket_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Socket.jar">
+        <element id="module-output" name="Socket" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.45-bin.jar" />
+    </root>
+  </artifact>
+</component>

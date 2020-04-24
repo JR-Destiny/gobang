@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/timg_1" android:duration="50"/>
+    <item android:drawable="@drawable/timg_2" android:duration="50"/>
+    <item android:drawable="@drawable/timg_3" android:duration="50"/>
+    <item android:drawable="@drawable/timg_4" android:duration="50"/>
+    <item android:drawable="@drawable/timg_5" android:duration="50"/>
+    <item android:drawable="@drawable/timg_6" android:duration="50"/>
+    <item android:drawable="@drawable/timg_7" android:duration="50"/>
+    <item android:drawable="@drawable/timg_8" android:duration="50"/>
+    <item android:drawable="@drawable/timg_9" android:duration="50"/>
+    <item android:drawable="@drawable/timg_10" android:duration="50"/>
+    <item android:drawable="@drawable/timg_11" android:duration="50"/>
+    <item android:drawable="@drawable/timg_12" android:duration="50"/>
+    <item android:drawable="@drawable/timg_13" android:duration="50"/>
+    <item android:drawable="@drawable/timg_14" android:duration="50"/>
+    <item android:drawable="@drawable/timg_15" android:duration="50"/>
+    <item android:drawable="@drawable/timg_16" android:duration="50"/>
+    <item android:drawable="@drawable/timg_17" android:duration="50"/>
+    <item android:drawable="@drawable/timg_18" android:duration="50"/>
+    <item android:drawable="@drawable/timg_19" android:duration="50"/>
+    <item android:drawable="@drawable/timg_20" android:duration="50"/>
+    <item android:drawable="@drawable/timg_21" android:duration="50"/>
+    <item android:drawable="@drawable/timg_22" android:duration="50"/>
+    <item android:drawable="@drawable/timg_23" android:duration="50"/>
+    <item android:drawable="@drawable/timg_24" android:duration="50"/>
+    <item android:drawable="@drawable/timg_25" android:duration="50"/>
+    <item android:drawable="@drawable/timg_26" android:duration="50"/>
+    <item android:drawable="@drawable/timg_27" android:duration="50"/>
+    <item android:drawable="@drawable/timg_28" android:duration="50"/>
+    <item android:drawable="@drawable/timg_29" android:duration="50"/>
+    <item android:drawable="@drawable/timg_30" android:duration="50"/>
+    <item android:drawable="@drawable/timg_31" android:duration="50"/>
+    <item android:drawable="@drawable/timg_32" android:duration="50"/>
+    <item android:drawable="@drawable/timg_33" android:duration="50"/>
+    <item android:drawable="@drawable/timg_34" android:duration="50"/>
+    <item android:drawable="@drawable/timg_35" android:duration="50"/>
+    <item android:drawable="@drawable/timg_36" android:duration="50"/>
+    <item android:drawable="@drawable/timg_37" android:duration="50"/>
+</animation-list>

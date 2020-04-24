@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">休闲五子棋</string>
+    <string name="game_ret">离开</string>
+    <string name="chess_back">悔棋</string>
+    <string name="player">玩家</string>
+    <string name="AI">电脑</string>
+</resources>
